@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="pcdp-core-0.0.4-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pcdp-core-0.0.4-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hamcrest-core-1.3.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/main/java" />
+      <root url="file://$PROJECT_DIR$/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+  </library>
+</component>
